@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(ModernCMakeExample VERSION 1.0.0 LANGUAGES CXX)
+project(MyLibrary VERSION 1.0.0 LANGUAGES CXX)
 
 find_package(OpenCV REQUIRED)
 
